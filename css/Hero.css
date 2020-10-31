@@ -49,8 +49,6 @@
   background: -moz-linear-gradient(left, hsl(197, 78%, 47%) 0%, rgba(19,57,124,1) 100%);
   background: linear-gradient(to right, rgb(26, 161, 214) 0%, rgba(19,57,124,1) 100%);
   color: #fff;
-  margin-left: 30%;
-  margin-right: 30%;
 }
 
 .intro-info .btn-get:hover{  
