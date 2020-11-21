@@ -1,0 +1,34 @@
+#contact {
+  padding: 20px 0 40px 0;
+}
+
+.section-bg .title h2 {
+    text-align: center;
+    font-size: 36px;
+    font-weight: 600;
+    margin-left: 0px;
+    color: #3f78c3;
+    margin-bottom: 40px;
+    margin-top: 5px;
+  }
+  
+  #contact button{
+    font-family: "Montserrat", sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    padding: 15px 15px;
+    border-radius: 30px;
+    transition: 0.5s;
+    color: #fff;
+    background: rgba(26,161,214,1);
+    background: -moz-linear-gradient(left, hsl(197, 78%, 47%) 0%, rgba(19,57,124,1) 100%);
+    background: linear-gradient(to right, rgb(26, 161, 214) 0%, rgba(19,57,124,1) 100%);
+    color: #fff;
+  }
+  
+  #contact button:hover{  
+      background: rgba(176, 178, 184, 0.383);
+      color: black;
+  }  

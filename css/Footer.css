@@ -1,10 +1,23 @@
 .footer {
-    padding-top: 5rem;
-    padding-bottom: 5rem;
-    background-color: #36383b;
+	padding: 20px 0 40px 0;
+	background-color: #36383b;
     color: #fff;
     display: block;
   }
+
+.localidad {
+	margin-top: 40px;
+	text-align: center;
+}
+
+.redes {
+	text-align: center;
+}
+
+.contacto {
+	margin-top: 40px;
+	text-align: center;
+}
 
 .btn-social {	
 	display: inline-block;
@@ -40,22 +53,22 @@
 .facebook:hover{
 	background:white;
 	color:#3b5998;
-	transition: 1.5s all;
-	border:rgb(59, 89, 152, 0.8) dashed;
+	transition: 1.0s all;
+	border:rgb(59, 89, 152, 0.8) solid;
 }
 
 .twitter:hover{
 	background:white;
 	color:#55acee;
-	transition: 1.5s all;
-	border:rgb(85, 172, 238, 0.8) dashed;
+	transition: 1.0s all;
+	border:rgb(85, 172, 238, 0.8) solid;
 }
 
 .instagram:hover{
    background: white;
    color: #c32aa3;
-   transition: 1.5s all;
-   border:rgb(195, 42, 163, 0.8) dashed;
+   transition: 1.0s all;
+   border:rgb(195, 42, 163, 0.8) solid;
 }
   
   .copyright {

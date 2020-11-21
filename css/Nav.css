@@ -4,6 +4,7 @@
           position:relative;
           display: inline;
           padding: 10px;
+          padding-top: 10px;
        }
 
 nav li a {
@@ -20,4 +21,9 @@ nav li a {
 nav a:hover {
 	          cursor: pointer;
 	          color: #3879E7!important;
-	} 
+       } 
+       
+nav img {
+       width:80px;
+
+}
